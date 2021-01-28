@@ -16,7 +16,7 @@ If you're a **visionary** willing to work for **exposure** (and possibly a small
 
 I might offer you a position on our **dream team**. We're two dudes that are making no profit but we have **amazing synergy** and a Keurig Coffee machine. **(Remote positions only.)**
 
-We currently have a no-payment internship open. Required experience in C++, C#, .NET, Java, JavaScript, Node, Express, MongoDB, Postgre SQL, Sequelize, Mongoose, Docker, Puppet, Jenkins, Apachi NiFi, AWS, TensorFlow, Django, Python, Ruby, Rails, Pascal, FORTRAN, and 20 years of experience in Golang.
+We currently have a no-payment internship open. Required experience in C++, C#, .NET, Java, JavaScript, React, Node, Express, MongoDB, Postgre SQL, Scala, Sequelize, Mongoose, Docker, Puppet, Jenkins, Apachi NiFi, AWS, TensorFlow, Django, Python, Rust, Scala, Ruby, Rails, Pascal, FORTRAN, and 20 years of experience in Golang.
 
 40 hours a week; remote.
 
