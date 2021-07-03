@@ -18,18 +18,50 @@ I might offer you a position on our **dream team**. We're two dudes that are mak
 
 We currently have a no-payment internship open. Required experience in C++, C#, .NET, Java, JavaScript, React, Node, Express, MongoDB, Postgre SQL, Scala, Sequelize, Mongoose, Docker, Puppet, Jenkins, Apachi NiFi, AWS, TensorFlow, Django, Python, Rust, Scala, Ruby, Rails, Pascal, FORTRAN, and 20 years of experience in Golang.
 
-40 hours a week; remote.
-
 ---
 
 ## Only Joking
 
-### This is a fake account used to teach students Git / GitHub concepts.
+### This is a fake account used by [theMarkFullton](https://github.com/themarkfullton) to teach students.
 
 ### Tutoring repos are slowly being moved here.
 
 ---
 
-Richie Rich is a fake character who is absolutely not based off anyone I've worked with.
+# Current List of Tutorials
 
-Definitely not.
+💻 C++ | ☕ JAVA  | 🐍 PYTHON |  🕷️ HTML/CSS/JS  | ⚛️ React | 🐘 SQL
+
+## Write Ups
+
+🐍🕷️💻 [Basic Programming Logic](https://github.com/therichierich/basic-programming-logic)
+
+🐍🕷️💻 [Basic Data Structures & Algorithms](https://github.com/therichierich/basic-data-structures-and-algorithms)
+
+:octocat: [Git Basics](https://github.com/therichierich/basic-git-commands)
+
+🐍 [Pandas Basics](https://github.com/therichierich/basics-of-pandas)
+
+🐍 [Lambda Functions](https://github.com/therichierich/functionalProgrammingForStudentsInAHurry/blob/main/lambda.md)
+
+🐍 [List Comprehensions](https://github.com/therichierich/functionalProgrammingForStudentsInAHurry/blob/main/listcomp.md)
+
+🕷️ [HTML, CSS, JS Intro](https://github.com/therichierich/html-css-js-intro)
+
+🕷️ [Data with JS](https://github.com/therichierich/js-arrays)
+
+🕷️ [DOM Manipulation with JS, JQuery, and D3](https://github.com/therichierich/dom-manipulation-js)
+
+⚛️ [React Logic](https://github.com/therichierich/react-logic)
+
+🐘 [Quick Database Overview](https://github.com/therichierich/quick-database-overview)
+
+
+
+## Example Projects
+
+🐍🕷️ [Flask-JavaScript Fetch](https://github.com/themarkfullton/example-flask-javascript-fetch)
+
+⚛️ [React Form Submit](https://github.com/themarkfullton/react-form-submit)
+
+[](https://github.com/themarkfullton/patchwork-back-end)
