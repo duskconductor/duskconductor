@@ -60,8 +60,21 @@ We currently have a no-payment internship open. Required experience in C++, C#, 
 
 ## Example Projects
 
+☕ [Spring-Mongo Backend](https://github.com/themarkfullton/patchwork-back-end)
+
+🐍 [Django Backend Example](https://github.com/themarkfullton/blog-backend)
+
 🐍🕷️ [Flask-JavaScript Fetch](https://github.com/themarkfullton/example-flask-javascript-fetch)
+
+🕷️ [Handlebars / Mongo / Webscraper](https://github.com/themarkfullton/balmy-la-webscraper)
+
+🕷️ [DOM Manipulation -- Vanilla JS](https://github.com/themarkfullton/Word-Guess-Game)
+
+🕷️ [DOM Manipulation / Timers -- JQuery](https://github.com/themarkfullton/JSDOMTimersExample)
+
+🕷️ [Recommended Reading Calendar (OOP && DOM Manipulation)](https://github.com/themarkfullton/recc-reading-calendar)
 
 ⚛️ [React Form Submit](https://github.com/themarkfullton/react-form-submit)
 
-[](https://github.com/themarkfullton/patchwork-back-end)
+⚛️ [React Components and Classes](https://github.com/therichierich/react-bird-watch)
+
